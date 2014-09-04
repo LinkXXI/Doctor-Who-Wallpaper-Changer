@@ -27,11 +27,11 @@ Enter a name for the task and set the radio button in the security options group
 
 Go to the Triggers tab. Select *New...* and set the task as follows...
 
-    - Daily
-    - Start date (default)
-    - Time (set to next hour so it runs from then.
-    - Repeat task every 1 hour
-    - Indefinetly
+- Daily
+- Start date (default)
+- Time (set to next hour so it runs from then. NOTE: Add a minute or two to make sure it runs within the hour, else it won't change correctly.)
+- Repeat task every 1 hour
+- Indefinetly
 
 Select *Ok* and move to the Actions tab.
 
